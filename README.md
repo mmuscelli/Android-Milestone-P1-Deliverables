@@ -1,9 +1,9 @@
 # Android-Milestone-P1-Deliverables
 
-This repository contains assignment submissions for the Milestones course
-"Make your Own Android App."
+<p>This repository contains assignment submissions for the Milestones course <i>Make your Own Android App.</i></p>
 
-Directory tree:
-	Deliverable-1
-		asteriskStair.kt:	a Kotlin app that prints asterisk lists in a
-						stair-case-like pattern.
+<h2>List of deliverables:</h2>
+<dl>
+	<dt>Deliverable-1</dt>
+	<dd>A simple Kotlin app that prints asterisk lists in a stair-case-like pattern.</dd>
+</dl>
