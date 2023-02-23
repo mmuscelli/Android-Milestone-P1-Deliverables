@@ -8,4 +8,6 @@
 	<dd>A simple Kotlin app that prints asterisk lists in a stair-case-like pattern.</dd>
 	<dt>Deliverable-2-3</dt>
 	<dd>Android app that calculates the tip for a given purchase.</dd>
+	<dt>Deliverable-4</dt>
+	<dd>An app that demonstrates the use of the MP Chart Library. It shows a line plot with 60 randomly-distributed numbers.</dd>
 </dl>
