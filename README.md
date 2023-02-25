@@ -10,4 +10,6 @@
 	<dd>Android app that calculates the tip for a given purchase.</dd>
 	<dt>Deliverable-4</dt>
 	<dd>An app that demonstrates the use of the MP Chart Library. It shows a line plot with 60 randomly-distributed numbers.</dd>
+	<dt>Deliverable-5</dt>
+	<dd>A simple app designed to receive data through Bluetooth low energy.</dd>
 </dl>
