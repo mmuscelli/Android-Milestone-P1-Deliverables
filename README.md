@@ -12,4 +12,6 @@
 	<dd>An app that demonstrates the use of the MP Chart Library. It shows a line plot with 60 randomly-distributed numbers.</dd>
 	<dt>Deliverable-5</dt>
 	<dd>A simple app designed to receive data through Bluetooth low energy.</dd>
+	<dt>Deliverable-2.1</dt>
+	<dd>A demonstration of UI fragments and the tab layout. The app has three tabs: two ImageView fragments and one RecyclerView list.</dd>
 </dl>
