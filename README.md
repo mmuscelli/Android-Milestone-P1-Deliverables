@@ -14,4 +14,6 @@
 	<dd>A simple app designed to receive data through Bluetooth low energy.</dd>
 	<dt>Deliverable-2.1</dt>
 	<dd>A demonstration of UI fragments and the tab layout. The app has three tabs: two ImageView fragments and one RecyclerView list.</dd>
+	<dt>Deliverable-2.2</dt>
+	<dd>Example implementation of a local database. The app provides a class roster and the options to add or drop students from the list.</dd>
 </dl>
