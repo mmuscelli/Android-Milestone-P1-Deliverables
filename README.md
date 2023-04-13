@@ -16,4 +16,10 @@
 	<dd>A demonstration of UI fragments and the tab layout. The app has three tabs: two ImageView fragments and one RecyclerView list.</dd>
 	<dt>Deliverable-2.2</dt>
 	<dd>Example implementation of a local database. The app provides a class roster and the options to add or drop students from the list.</dd>
+	<dt>Deliverable-2.3</dt>
+	<dd>This application uses GitHub's REST API to fetch the number of contributions a user has made on one of their repositories.</dd>
+	<dt>Deliverable-2.4</dt>
+	<dd>A reimplementation of the app in Deliverable-2.4 that uses coroutines to handle asynchronous communication with the API.</dd>
+	<dt>Deliverable-2.5</dt>
+	<dd>Two apps that demonstrate how to access the camera and play audio files.</dd>
 </dl>
